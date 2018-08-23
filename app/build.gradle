@@ -4,11 +4,11 @@ android {
     compileSdkVersion 27
 
     defaultConfig {
-        applicationId "io.github.davidbuchanan314.nxloader"
+        applicationId "io.github.annson24.nxloader"
         minSdkVersion 19
         targetSdkVersion 27
         versionCode 1
-        versionName "0.3.1"
+        versionName "0.3.4"
 
         externalNativeBuild {
             cmake {

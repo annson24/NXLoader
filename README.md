@@ -1,7 +1,7 @@
 ![logo](https://i.imgur.com/o335KYo.png "logo")
 
-# NXLoader
-My first Android app: Launch Fusée Gelée payloads from stock Android
+# NXLoader Mod
+A modified version of [NXLoader](https://github.com/DavidBuchanan314/NXLoader). Launch annson24-ized Hekate v4.0 or other Fusée Gelée payloads from stock Android
 
 Heavily based on [Fusée Gelée](https://github.com/reswitched/fusee-launcher/) and [ShofEL2](https://github.com/fail0verflow/shofel2). [fusee.bin](https://github.com/ktemkin/Atmosphere/tree/poc_nvidia/fusee) is bundled as a default payload
 
@@ -16,7 +16,7 @@ is some rather disgusting code (Potentially blocking tasks on the UI thread 🤢
 ## HOWTO:
 - Launch the app.
 - (Optional) go to the Config tab, and select a custom payload file.
-- Plug in your Switch. (On my Nexus 5, I use a micro USB OTG cable, and an A-to-C cable)
+- Plug in your Switch. (On my Galaxy S8, I use a Type-C to C cable)
 - Put it into RCM mode. (Note: your switch will power on by itself when plugged in, be sure to hold VOL+).
 - Grant permission to the app to access the USB device.
 - Enjoy!
@@ -30,8 +30,6 @@ Note: The app does not need to be running in order to launch the payload. The ph
 - Does it need root?: Nope!
 
 ## TODO:
-- Refactor the code so it's less hacky
-- Improve UI/UX
-- Implement loader for fail0verflow's Linux
+- waiting for the official NXLoader's update
 
-For anyone who wants to look at the exploit source, the magic happens [here](https://github.com/DavidBuchanan314/NXLoader/blob/master/app/src/main/java/io/github/davidbuchanan314/nxloader/PrimaryLoader.java).
+For anyone who wants to look at the exploit source, the magic happens [here](https://github.com/DavidBuchanan314/NXLoader/blob/master/app/src/main/java/io/github/annson24/nxloader/PrimaryLoader.java).

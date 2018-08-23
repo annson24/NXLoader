@@ -7,7 +7,7 @@
 
 extern "C" JNIEXPORT jint
 JNICALL
-Java_io_github_davidbuchanan314_nxloader_PrimaryLoader_nativeTriggerExploit(
+Java_io_github_annson24_nxloader_PrimaryLoader_nativeTriggerExploit(
         JNIEnv *env,
         jobject /* this */,
         jint fd,

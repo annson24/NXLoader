@@ -1,4 +1,4 @@
-package io.github.davidbuchanan314.nxloader;
+package io.github.annson24.nxloader;
 
 import android.os.Bundle;
 import android.support.annotation.NonNull;
