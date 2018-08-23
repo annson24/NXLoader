@@ -22,7 +22,7 @@
         </activity>
         <activity
             android:name=".USBHandlerActivity"
-            android:label="( ͡° ͜ʖ ͡°)"
+            android:label="Nintendo Switch"
             android:noHistory="true"
             android:excludeFromRecents="true"
             android:taskAffinity="com.example.taskAffinityUsbEventReceiver"
