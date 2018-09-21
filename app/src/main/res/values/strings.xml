@@ -22,7 +22,7 @@
     <string name="about_category_description">Description</string>
     <string name="about_category_instructions">Instructions</string>
     <string name="about_category_links">Links</string>
-    <string name="about_description">NXLoader Mod by annson24\n \nThis version of NXLoader is modded to have modded hekate v4.0 payload as default.\n \nHuge thanks to DavidBuchanan314 for the source.\n \nSXTools is an exploit implementation for the Tegra X1 \"bootrom\" vulnerability. It is based on the \"Fusée Gelée\" exploit by ktemkin and the \"ShofEL2\" exploit by fail0verflow.</string>
+    <string name="about_description">NXLoader Mod by annson24\n \nThis version of NXLoader is modded to have hekate v4.1 payload as default.\n \nHuge thanks to DavidBuchanan314 for the source.\n \nSXTools is an exploit implementation for the Tegra X1 \"bootrom\" vulnerability. It is based on the \"Fusée Gelée\" exploit by ktemkin and the \"ShofEL2\" exploit by fail0verflow.</string>
     <string name="about_instructions">Connect your Switch and put it in RCM mode to start loading.</string>
     <string name="about_link_github">Project on GitHub</string>
     <string name="about_link_twitter">Developer\'s Twitter</string>
