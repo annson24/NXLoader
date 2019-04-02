@@ -75,7 +75,7 @@ public class MainActivity extends AppCompatActivity {
         editor.apply();
 
         Toast.makeText(this, R.string.config_toast_restored, Toast.LENGTH_SHORT).show();
-        Logger.log(this, "[*] Payload reset to default (hekate.bin)");
+        Logger.log(this, "[*] Payload reset to default (argon-nx.bin)");
     }
 
     // After payload selected
