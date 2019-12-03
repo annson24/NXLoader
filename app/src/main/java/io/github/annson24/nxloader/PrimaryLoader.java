@@ -134,8 +134,8 @@ public class PrimaryLoader implements USBDevHandler {
         InputStream payload_file;
 
         if (payload_name == null) {
-            Logger.log(context, "[*] Opening default payload (argon-nx.bin)");
-            payload_file = context.getAssets().open("argon-nx.bin");
+            Logger.log(context, "[*] Opening default payload (hekate.bin)");
+            payload_file = context.getAssets().open("hekate.bin");
         } else {
             Logger.log(context, "[*] Opening custom payload (" + payload_name + ")");
             payload_file = new FileInputStream(context.getFilesDir().getPath() + "/payload.bin");

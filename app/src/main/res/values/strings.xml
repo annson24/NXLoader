@@ -11,7 +11,7 @@
     <string name="config_category_restore">Restore default</string>
     <string name="config_primary_payload_description">You can use your own, previously downloaded, payload.</string>
     <string name="config_primary_payload_button">Select primary payload</string>
-    <string name="config_restore_description">Restore default payload on your Switch - \"argon-nx.bin\"</string>
+    <string name="config_restore_description">Restore default payload on your Switch - \"hekate.bin\"</string>
     <string name="config_restore_button">Restore default</string>
     <string name="config_toast_restored">Default payload restored.</string>
     <string name="config_toast_new_payload">New payload selected.</string>
